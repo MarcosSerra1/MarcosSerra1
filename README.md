@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://www.instagram.com/apollo.11.0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <!--<a href="https://www.instagram.com/apollo.11.0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>--> 
-  
-  <!--![Snake animation](https://github.com/MarcosSerra1/MarcosSerra1/blob/output/github-contribution-grid-snake.svg)
-  -->
+    
 </div>
    
