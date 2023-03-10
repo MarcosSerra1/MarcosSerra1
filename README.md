@@ -6,12 +6,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal project
 - 🌱 I’m currently learning front-end and Python
 -->
-### Olá! Eu sou o Marcos Serra, estudante de front-end e criador de conteúdo de programação e tecnologia! 
+## Olá! Me chamo Marcos Serra :vulcan_salute: :nerd_face:, sou Dev Web e estudante em Tecnico em desenvolvimento de sistemas pelo Senac EAD
+<!-- ### Olá! Me chamo Marcos Serra :vulcan_salute: :nerd_face:, Dev Web  e criador de conteúdo de programação e tecnologia!  -->
 
 <div align="center">
   <a href="https://github.com/MarcosSerra1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSerra1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSerra1&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSerra1&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSerra1&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
