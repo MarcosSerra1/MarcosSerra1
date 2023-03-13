@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal project
 - 🌱 I’m currently learning front-end and Python
 -->
-## Olá! Me chamo Marcos Serra :vulcan_salute: :nerd_face:, sou Dev Web e estudante em Tecnico em desenvolvimento de sistemas pelo Senac EAD
+## Olá! Me chamo Marcos Serra :vulcan_salute::nerd_face:, sou Dev Web e estudante em Tecnico em desenvolvimento de sistemas pelo Senac EAD
 <!-- ### Olá! Me chamo Marcos Serra :vulcan_salute: :nerd_face:, Dev Web  e criador de conteúdo de programação e tecnologia!  -->
 
 <div align="center">
