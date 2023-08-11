@@ -1,6 +1,5 @@
 # Olá, me chamo Marcos Serra! :vulcan_salute::nerd_face:
 ## Bem vindo ao meu perfil GitHub 👋
-## Full-Stack
 
 <div align="center">
   <a href="https://github.com/MarcosSerra1">
