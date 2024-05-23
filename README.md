@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I turn coffee ☕ into codes
+I turn coffee ☕ into code
 
 From backend development using Django to RPA development, I'm passionate about discovering new things and using them to create high-quality solutions. Today, I'm a mid-level backend developer focused on web development.
 
