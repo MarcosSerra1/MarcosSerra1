@@ -26,8 +26,9 @@ From backend development using Django to RPA development, I'm passionate about d
   
 ## Contacts
 <div> 
-  <a href="https://www.instagram.com/devmarcosserra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>     
-  <a href="https://www.linkedin.com/in/marcos-serra-193788194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/devmarcosserra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <!--insta-->
+  <a href="https://www.linkedin.com/in/marcos-serra-193788194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <!--linkedin-->
+  <a href="mailton:devmarcosserra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <!--gmail-->
     
 </div> <!-- redes sociais -->
 
