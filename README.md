@@ -1,10 +1,12 @@
-# Hi, I'm Marcos Serra :vulcan_salute::nerd_face:
+# Olá, Eu sou Marcos Serra :vulcan_salute::nerd_face:
 
 <div align="center">
 
-Transmuting coffee into lines of code ☕
+👋 Sou um desenvolvedor iniciante com foco em Python e Django, criando sistemas de backend e robôs para automatizar tarefas. Gosto de aprender continuamente, aprimorando minhas habilidades em design de interface e organização de dados.
 
-From backend development using Django to RPA development, I'm passionate about discovering new things and using them to create high-quality solutions.
+🚀 Atualmente, estou desenvolvendo um sistema de cadastro de funcionários, fornecedores e clientes, e explorando integrações com APIs para emissão de notas fiscais.
+
+🌱 Apaixonado por aprendizado constante e sempre buscando código limpo e soluções sob medida para cada projeto. Vamos colaborar?
 </div>
  
 ## My Skills
