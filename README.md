@@ -12,7 +12,7 @@
 ## My Skills
 <h4> Main Stack: </h4>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <!--python--> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <!--django--> <img src="https://img.shields.io/badge/Git-D83B01?style=for-the-badge&logo=git&logoColor=white"/> <!--git--> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <!--docker--> <img src="https://img.shields.io/badge/Nginx-43853D?style=for-the-badge&logo=nginx&logoColor=white"/> <!--docker-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <!--python--> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <!--django--> <img src="https://img.shields.io/badge/Git-D83B01?style=for-the-badge&logo=git&logoColor=white"/> <!--git--> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <!--docker--> <img src="https://img.shields.io/badge/Nginx-43853D?style=for-the-badge&logo=nginx&logoColor=white"/> <!--nginx-->
 
 <h4> Databases: </h4>
 
