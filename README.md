@@ -2,7 +2,7 @@
 
 <div align="center">
 
-👋 Sou um desenvolvedor iniciante com foco em Python e Django, criando sistemas de backend e robôs para automatizar tarefas. Gosto de aprender continuamente, aprimorando minhas habilidades em design de interface e organização de dados.
+👋 Sou um desenvolvedor com foco em Python e Django, criando sistemas de backend e robôs para automatizar tarefas. Gosto de aprender continuamente, aprimorando minhas habilidades em design de interface e organização de dados.
 
 🚀 Atualmente, estou desenvolvendo um sistema de cadastro de funcionários, fornecedores e clientes, e explorando integrações com APIs para emissão de notas fiscais.
 
