@@ -25,7 +25,7 @@
 
 <h4> Studying in this moment: </h4>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <!--js--> <img src="https://img.shields.io/badge/Angular-D83B01?style=for-the-badge&logo=angular&logoColor=white"/> <!--angular--> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <!--html--> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <!--css-->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <!--js--> <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=black"/> <!--typescript--> <img src="https://img.shields.io/badge/Angular-D83B01?style=for-the-badge&logo=angular&logoColor=white"/> <!--angular--> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <!--html--> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <!--css-->
 
 <p>🎯 Estou explorando JavaScript e AngularJS para expandir minha stack em projetos full-stack, com foco em criar interfaces interativas e responsivas para web!</p>
 
